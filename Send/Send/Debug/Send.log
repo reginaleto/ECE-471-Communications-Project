@@ -1,0 +1,4 @@
+﻿  Send.c
+C:\471GitHub\Send\Send\Send.c(79,18): warning C4013: 'createSocket' undefined; assuming extern returning int
+C:\471GitHub\Send\Send\Send.c(138,1): warning C4142: 'createSocket': benign redefinition of type
+  Send.vcxproj -> C:\471GitHub\Send\Debug\Send.exe
